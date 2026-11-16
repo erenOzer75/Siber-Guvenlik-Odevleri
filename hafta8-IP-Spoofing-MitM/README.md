@@ -12,7 +12,7 @@ Bu çalışmada Python **Scapy** kütüphanesi kullanılarak sahte kaynak IP adr
 ![Gönderici Ekranı](1000230597.jpg)
 
 ### 2. Sahte Paket Üretimi (Scapy IP Spoofing Kodu)
-![Scapy IP Spoofing Kodu](1000232491.jpg)
+![Scapy IP Spoofing Kodu](WhatsApp Image 2026-11-16 at 20.09.51.jpeg)
 
 ### 3. Dinleyici / Analiz Tarafı (Wireshark Trafik Kaydı)
 ![Wireshark Analizi](1000230627.jpg)
