@@ -5,14 +5,3 @@ Ad Soyad: Eren Özer
 
 ## Laboratuvar Özeti
 Bu çalışmada Python **Scapy** kütüphanesi kullanılarak sahte kaynak IP adresli (IP Spoofing) ICMP paketleri oluşturulmuş, ağ üzerinden paket gönderimi gerçekleştirilmiş ve **Wireshark** aracı ile ağ trafiği dinlenerek (MitM / Paket Yakalama) gelen-giden paketler analiz edilmiştir.
-
-## Rol ve Aşama Ekran Görüntüleri
-
-### 1. Gönderici Tarafı (Ping ve Paket İletimi)
-![Gönderici Ekranı](1000230597.jpg)
-
-### 2. Sahte Paket Üretimi (Scapy IP Spoofing Kodu)
-![Scapy IP Spoofing Kodu](WhatsApp Image 2026-11-16 at 20.09.51.jpeg)
-
-### 3. Dinleyici / Analiz Tarafı (Wireshark Trafik Kaydı)
-![Wireshark Analizi](1000230627.jpg)
